@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM-based multi-agent systems and autonomous reasoning<br><br>🌱 I’m currently learning Developing autonomous reasoning agents with memory and planning<br><br>👨‍💻 All of my projects are available at https://github.com/Mortza1<br><br>📝 I regularly write articles on https://murtazacodes.framer.website/<br><br>💬 Ask me about Educational AI tools and chatbot-based learning assistants<br><br>📫 How to reach me murtaza.0903@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1LqpEsG-MisxL5QLdehHjdPeh8gCBJ2r3/view?usp=sharing<br><br>⚡ Fun fact I believe curiosity builds intelligence — in humans and in AI.<br><br>
+🔭 I’m currently working on LLM-based multi-agent systems and autonomous reasoning<br><br>🌱 I’m currently learning Developing autonomous reasoning agents with memory and planning<br><br>👨‍💻 All of my projects are available at https://github.com/Mortza1<br><br>💬 Ask me about Educational AI tools and chatbot-based learning assistants<br><br>📫 How to reach me murtaza.0903@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1LqpEsG-MisxL5QLdehHjdPeh8gCBJ2r3/view?usp=sharing<br><br>⚡ Fun fact I believe curiosity builds intelligence — in humans and in AI.<br><br>
 
 
 ## 🌐 Socials:
